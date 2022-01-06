@@ -6,3 +6,6 @@ from django.http import HttpResponse
 def home(request):
     # return HttpResponse("<h1>This is home</h1>")
     return render(request, 'users/home.html')
+
+def service(request):
+    return render(request, 'users/service.html')
