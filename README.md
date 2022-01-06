@@ -1,6 +1,6 @@
 # Hotel_webapp
 
-Once you open you've downloaded the webapp & opened it in your IDE:
+Once you've downloaded the webapp & open it in your IDE:
   *TO RUN THE SERVER*
   - Open terminal
   - Type -->  cd webapp ...to go into the project
